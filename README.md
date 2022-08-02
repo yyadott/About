@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yyadott
+- 👋 Hi, I’m Taryadi a.k.a @yyadott
 - 👀 I’m interested in Website Development, especially the Front End
 - 🌱 I’m currently learning Advance HTML,CSS,JS and React too
 - 💞️ I’m looking to collaborate on My Life
