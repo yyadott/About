@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on My Life
 
 - 🚀 My resolutions for 2022-2023 :
-     ⪧ Creating a Responsive Website My Personal Portfolio Create a Website Contact Link for me and others
-     ⪧ Mastering JS
-     ⪧ Consistently Learn About Website Development
-     ⪧ and others
+      - Creating a Responsive Website My Personal Portfolio Create a Website Contact Link for me and others
+      - Mastering JS
+      - Consistently Learn About Website Development
+      - and others
      
 - 📫 How to reach me?You can contact me for everything on :
 - 
